@@ -2,5 +2,5 @@
 *.xlsx
 .Rproj.user
 
-
+*.Rhistory
 
